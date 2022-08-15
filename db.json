@@ -1,0 +1,36 @@
+{
+  "pacientes": [
+    {
+      "firstName": "facundo ",
+      "lastName": "cornet",
+      "fecha": "2022-06-30T11:00",
+      "doctor": "benjamin Chahla",
+      "obraSocial": "osde",
+      "numAfiliado": "121321",
+      "id": 1
+    },
+    {
+      "firstName": "matias",
+      "lastName": "figueroa",
+      "fecha": "2022-07-05T12:30",
+      "doctor": "benjamin chahla",
+      "obraSocial": "prensa",
+      "numAfiliado": "12316548",
+      "id": 3
+    }
+  ],
+  "medicos": [
+    {
+      "medico": "geronimo moreno",
+      "especialidad": "odontologo",
+      "horario": "8:00 a 12:00",
+      "id": 3
+    },
+    {
+      "medico": "augusto paz papa",
+      "especialidad": "psicologo",
+      "horario": "14:00 a 20:00",
+      "id": 4
+    }
+  ]
+}
